@@ -12,7 +12,7 @@ Example:
 Leaders: [17, 5, 2]
 */
 #include <iostream>
-#include<vector>
+#include <vector>
 using namespace std;
 
 std::vector<int> findleader(int arr[], int len){
